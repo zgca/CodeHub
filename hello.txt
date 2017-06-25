@@ -8,3 +8,5 @@ method
 }
 
 zhegeshi plugins
+
+zheshi  new ss
