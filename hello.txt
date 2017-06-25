@@ -6,3 +6,5 @@ method
 {
   show something
 }
+
+zhegeshi plugins
