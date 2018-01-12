@@ -9,6 +9,7 @@ namespace ReadBT
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("1");
         }
 
         private uint csrHandle;
